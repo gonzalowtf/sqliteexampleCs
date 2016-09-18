@@ -1,0 +1,17 @@
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\bin\Debug\Personal.exe.config
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\bin\Debug\Personal.exe
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\bin\Debug\Personal.pdb
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\bin\Debug\EntityFramework.dll
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\bin\Debug\System.Data.SQLite.dll
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\bin\Debug\EntityFramework.xml
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\bin\Debug\System.Data.SQLite.xml
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\obj\Debug\Personal.csprojResolveAssemblyReference.cache
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\obj\Debug\Personal.Form1.resources
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\obj\Debug\Personal.Properties.Resources.resources
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\obj\Debug\Personal.csproj.GenerateResource.Cache
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\obj\Debug\Personal.exe
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Personal\Personal\obj\Debug\Personal.pdb
